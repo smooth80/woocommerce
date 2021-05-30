@@ -1,2 +1,8 @@
 kramdown:
   input: GFM
+
+title: WooCommerce
+description: An open source eCommerce plugin for WordPress created by WooThemes.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
